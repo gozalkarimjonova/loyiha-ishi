@@ -1,0 +1,241 @@
+{
+  "categories": [
+    "Dasturlash", "Python", "Web", "AI / ML", "Java", "Go", "C#", "Spring", "ChatGPT", "Data Science"
+  ],
+  "topics": [
+    { "icon": "💻", "label": "Python" },
+    { "icon": "🤖", "label": "ChatGPT" },
+    { "icon": "🌐", "label": "Web dizayn" },
+    { "icon": "📊", "label": "Excel" },
+    { "icon": "🎨", "label": "UI/UX" },
+    { "icon": "📈", "label": "Data Science" }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "title": "Eng ko'p sotilgan kurslar",
+      "courses": [
+        {
+          "id": 1,
+          "title": "AI Разработка и создание AI агентов - с нуля до результата",
+          "author": "Dmitrii Ekinov",
+          "price": 9.99,
+          "oldPrice": 99.99,
+          "rating": 4.6,
+          "reviews": 27,
+          "badge": "Bestseller",
+          "hours": 42,
+          "lectures": 180,
+          "level": "Boshlang'ich",
+          "description": "AI agentlarni noldan yaratishni o'rganasiz. LangChain, OpenAI, va zamonaviy AI texnologiyalari bilan ishlash.",
+          "skills": ["LangChain", "OpenAI API", "Python", "AI Agents"],
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400"
+        },
+        {
+          "id": 2,
+          "title": "Python - Полный курс по Python, Django, Data Science и ML",
+          "author": "Bogdan Stashchuk",
+          "price": 9.99,
+          "oldPrice": 59.99,
+          "rating": 4.7,
+          "reviews": 4564,
+          "badge": "Bestseller",
+          "hours": 65,
+          "lectures": 420,
+          "level": "Barcha darajalar",
+          "description": "Python dasturlash tilini noldan o'rganib, Django, Data Science va Machine Learning sohasini egallang.",
+          "skills": ["Python", "Django", "Pandas", "NumPy", "Scikit-learn"],
+          "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=400"
+        },
+        {
+          "id": 3,
+          "title": "Нейросети с нуля до результата! Ultimate курс по AI",
+          "author": "Dmitrii Ekinov",
+          "price": 9.99,
+          "oldPrice": 109.99,
+          "rating": 4.4,
+          "reviews": 110,
+          "badge": "Bestseller",
+          "hours": 38,
+          "lectures": 210,
+          "level": "O'rta",
+          "description": "Neyron tarmoqlarni noldan o'rganib, real loyihalar yarating. TensorFlow va PyTorch bilan ishlash.",
+          "skills": ["TensorFlow", "PyTorch", "Neural Networks", "Deep Learning"],
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400"
+        },
+        {
+          "id": 4,
+          "title": "Python - Курс Python с абсолютного нуля",
+          "author": "Oleksandr Tokarev",
+          "price": 9.99,
+          "oldPrice": 79.99,
+          "rating": 4.8,
+          "reviews": 510,
+          "badge": "Bestseller",
+          "hours": 28,
+          "lectures": 156,
+          "level": "Boshlang'ich",
+          "description": "Mutlaq noldan Python o'rganish. Asoslardan boshlab murakkab mavzulargacha.",
+          "skills": ["Python", "OOP", "Algorithms", "Data Structures"],
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=400"
+        },
+        {
+          "id": 5,
+          "title": "ChatGPT: Полный курс по AI, ChatGPT, OpenAI API и DALL-E",
+          "author": "Bogdan Stashchuk",
+          "price": 9.99,
+          "oldPrice": 59.99,
+          "rating": 4.6,
+          "reviews": 649,
+          "badge": "Bestseller",
+          "hours": 22,
+          "lectures": 120,
+          "level": "Boshlang'ich",
+          "description": "ChatGPT va OpenAI API-ni chuqur o'rganib, AI ilovalar yarating.",
+          "skills": ["ChatGPT", "OpenAI API", "DALL-E", "Prompt Engineering"],
+          "image": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=400"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Razrabotka bo'limidagi eng yaxshi kurslar",
+      "courses": [
+        {
+          "id": 6,
+          "title": "MCP: как надо а не как все",
+          "author": "Evgeny Borisov",
+          "price": 139.99,
+          "oldPrice": 199.99,
+          "rating": 4.7,
+          "reviews": 51,
+          "badge": "Yangi",
+          "hours": 18,
+          "lectures": 95,
+          "level": "Yuqori",
+          "description": "MCP arxitekturasi to'g'ri amalga oshirish. Kasbiy yondashuv bilan.",
+          "skills": ["MCP", "Architecture", "Java", "Spring"],
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400"
+        },
+        {
+          "id": 7,
+          "title": "Spring AI или Весна Искусственного Интеллекта",
+          "author": "Evgeny Borisov",
+          "price": 124.99,
+          "oldPrice": 179.99,
+          "rating": 4.7,
+          "reviews": 307,
+          "badge": null,
+          "hours": 25,
+          "lectures": 140,
+          "level": "O'rta",
+          "description": "Spring Framework orqali AI ilovalar yaratishni o'rganasiz.",
+          "skills": ["Spring AI", "Java", "LLM", "RAG"],
+          "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400"
+        },
+        {
+          "id": 8,
+          "title": "Spring AI Pro или про весну искусственного интеллекта глубже",
+          "author": "Evgeny Borisov",
+          "price": 124.99,
+          "oldPrice": 179.99,
+          "rating": 4.9,
+          "reviews": 149,
+          "badge": null,
+          "hours": 30,
+          "lectures": 165,
+          "level": "Yuqori",
+          "description": "Spring AI ning ilg'or xususiyatlarini chuqur o'rganasiz.",
+          "skills": ["Spring AI Pro", "Vector DB", "Embeddings", "Fine-tuning"],
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400"
+        },
+        {
+          "id": 9,
+          "title": "Go - Полный курс по Go (GoLang)",
+          "author": "Bogdan Stashchuk",
+          "price": 9.99,
+          "oldPrice": 19.99,
+          "rating": 4.8,
+          "reviews": 304,
+          "badge": "Bestseller",
+          "hours": 35,
+          "lectures": 195,
+          "level": "Boshlang'ich",
+          "description": "Go dasturlash tilini to'liq o'rganasiz. Concurrency, goroutines va boshqa mavzular.",
+          "skills": ["Go", "Goroutines", "Channels", "REST API"],
+          "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400"
+        },
+        {
+          "id": 10,
+          "title": "C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ",
+          "author": "Сергей Журавлёв",
+          "price": 9.99,
+          "oldPrice": 59.99,
+          "rating": 4.9,
+          "reviews": 275,
+          "badge": "Bestseller",
+          "hours": 45,
+          "lectures": 280,
+          "level": "Barcha darajalar",
+          "description": "C# dasturlash tilini noldan professionallik darajasiga olib chiqasiz.",
+          "skills": ["C#", ".NET", "OOP", "LINQ", "Entity Framework"],
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=400"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Web Development kurslar",
+      "courses": [
+        {
+          "id": 11,
+          "title": "The Complete JavaScript Course 2024: From Zero to Expert!",
+          "author": "Jonas Schmedtmann",
+          "price": 13.99,
+          "oldPrice": 84.99,
+          "rating": 4.8,
+          "reviews": 198420,
+          "badge": "Bestseller",
+          "hours": 69,
+          "lectures": 320,
+          "level": "Barcha darajalar",
+          "description": "JavaScript ni noldan expert darajasiga. ES6+, OOP, async/await, va boshqalar.",
+          "skills": ["JavaScript", "ES6+", "OOP", "Async/Await", "DOM"],
+          "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400"
+        },
+        {
+          "id": 12,
+          "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+          "author": "Maximilian Schwarzmüller",
+          "price": 13.99,
+          "oldPrice": 94.99,
+          "rating": 4.6,
+          "reviews": 87350,
+          "badge": "Bestseller",
+          "hours": 58,
+          "lectures": 690,
+          "level": "Barcha darajalar",
+          "description": "React ni to'liq o'rganasiz. Hooks, Router, Redux va zamonaviy React patterns.",
+          "skills": ["React", "Redux", "React Router", "Hooks", "Context API"],
+          "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400"
+        },
+        {
+          "id": 13,
+          "title": "CSS - The Complete Guide 2024 (incl. Flexbox, Grid & Sass)",
+          "author": "Maximilian Schwarzmüller",
+          "price": 11.99,
+          "oldPrice": 74.99,
+          "rating": 4.7,
+          "reviews": 42100,
+          "badge": null,
+          "hours": 22,
+          "lectures": 295,
+          "level": "Boshlang'ich",
+          "description": "CSS ni to'liq o'rganasiz. Flexbox, Grid, animatsiyalar va Sass.",
+          "skills": ["CSS3", "Flexbox", "Grid", "Sass", "Animations"],
+          "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=400"
+        }
+      ]
+    }
+  ]
+}
